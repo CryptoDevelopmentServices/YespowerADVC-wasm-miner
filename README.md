@@ -1,5 +1,5 @@
-# yescryptr16-wasm-miner
-**Yescryptr16 WebAssembly based miner**
+# YespowerR16-wasm-miner
+**YespowerR16 (yespower) WebAssembly based miner**
 
 Folder "html" - file for web server (html, wasm file, js file)
 
