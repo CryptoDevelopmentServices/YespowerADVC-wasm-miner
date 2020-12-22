@@ -1,4 +1,4 @@
-# YespowerR16-wasm-miner
+# Yenten Web Miner
 **YespowerR16 (yespower) WebAssembly based miner**
 
 Folder "html" - file for web server (html, wasm file, js file)
