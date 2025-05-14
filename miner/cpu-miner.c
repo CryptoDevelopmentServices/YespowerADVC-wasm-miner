@@ -56,10 +56,10 @@ const char* miner_thread(const char* blockheader, const char* targetstr,
 
 	yespower_params_t params = {
 		.version = YESPOWER_1_0,
-		.N = 4096,
-		.r = 16,
-		.pers = NULL,
-		.perslen = 0
+		.N = 2048,
+		.r = 32,
+		.pers = "Let the quest begin";
+		.perslen = 19
 	};
 
 	hex2bin((void*)pdata, blockheader, headerlen);
